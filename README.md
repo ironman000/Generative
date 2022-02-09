@@ -1,2 +1,2 @@
 # motiondesign
-Generative art project
+Generative 
